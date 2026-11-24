@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="icon.jpg" width="150" />
+  <img
+    src="https://github.com/SAKURA0x53/SAKURA0x53/releases/download/Avatar/icon.png"
+    alt="SAKURA0x53 🌸"
+    width="150"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=SAKURA0x53%F0%9F%8C%B8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=SAKURA0x53%F0%9F%8C%B8" />
 </p>
 
 # 💫 About Me :
@@ -21,4 +25,6 @@ Hey, I'm SAKURA0x53🌸<br>Creative Coder exploring the intersection of code and
 
 ---
 
-<h3 align="center">ALL RIGHTS RESERVED © SAKURA0x53</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=ALL+RIGHTS+RESERVED+%C2%A9+SAKURA0x53" />
+</p>
